@@ -1,0 +1,9 @@
+package com.bypg.dao;
+
+import com.bypg.model.StudentInfo;
+//Ã·π©XML”≥…‰¬∑æ∂
+public interface StudentInfoDao {
+	
+public int addStudentInfo(StudentInfo studentinfo);
+	
+}
